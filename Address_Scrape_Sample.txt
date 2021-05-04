@@ -1,0 +1,37 @@
+Giant, 6480 Freetown Rd, Columbia, MD 21044, United States|39.19463|-76.883896
+Safeway, 9881 VA-193, Great Falls, VA 22066, United States|38.99614700000001|-77.28763
+Stop & Shop, 3900 Falmouth Rd, Cotuit, MA 02648, United States|41.6483|-70.427666
+Safeway, 30 Pidgeon Hill Dr, Sterling, VA 20165, United States|39.038654|-77.41275
+Shaw's, 96 Daniel Webster Hwy, Belmont, NH 03220, United States|43.515118|-71.49184
+Giant, 7025 Berry Rd, Accokeek, MD 20607, United States|38.66019|-77.017044
+Shaw's, 20 Fort Eddy Rd, Concord, NH 03301, United States|43.21100999999999|-71.53017
+Martin's Food Market, 400 Gateway Dr, Winchester, VA 22603, United States|39.18716|-78.133194
+Pharmacy, 10501 MLK Jr Hwy Shoppers Food &, Bowie, MD 20720, United States|38.95344|-76.825424
+Sparkle Market, 3623 S Meridian Rd, Youngstown, OH 44511, United States|41.064148|-80.71009
+21593 Lorain Giant Eagle, Fairview Park, OH 44126, United States|41.44110500000001|-81.86053
+8100 George WA Mem Hwy Food Lion, Yorktown, VA 23692, United States|37.191532|-76.48584
+BI-LO, 2435 E North St #1106, Greenville, SC 29615, United States|34.870335|-82.355446
+BI-LO, 101 Verdae Blvd #1200, Greenville, SC 29607, United States|34.820717|-82.339424
+Food Depot, 3030 Bankhead Hwy, Austell, GA 30168, United States|33.7979|-84.64104499999999
+BI-LO, 2349 Augusta Rd, West Columbia, SC 29169, United States|33.98212|-81.09917399999999
+Food Lion, 2312 Decker Blvd, Columbia, SC 29206, United States|34.055374|-80.946434
+BI-LO, 2803 Wrightsboro Rd, Augusta, GA 30909, United States|33.47031|-82.03560999999999
+Food Depot, 1201 W Taylor St, Griffin, GA 30223, United States|33.248173|-84.28302
+701 5th Ave #3150, Seattle, WA 98104, United States|47.6045|-122.330634
+859 SR-17 S Stop & Shop, Paramus, NJ 07652, United States|40.94911|-74.072426
+920 Red Lion Rd, Philadelphia, PA 19115, United States|40.100986|-75.02716
+Giant Food Stores, 2350 Susquehanna Rd, Roslyn, PA 19001, United States|40.121037|-75.13575
+501 Evesham Rd, Runnemede, NJ 08078, United States|39.84714|-75.06179999999999
+4001 Walnut St, Philadelphia, PA 19104, United States|39.95446|-75.20293
+503 S Macdade Mall Acme, Holmes, PA 19043, United States|39.89906|-75.30158
+2098 Naamans Rd, Wilmington, DE 19810, United States|39.82382|-75.50056
+Redners Warehouse Markets, 300 Kenhorst Plaza, Reading, PA 19607, United States|40.299294|-75.94941
+100 College Square, Newark, DE 19713, United States|39.68274299999999|-75.73550999999999
+Food Lion, 401 New London Rd, Newark, DE 19711, United States|39.69391|-75.764854
+Shaw's, 160 Old Tower Hill Rd, Wakefield, RI 02879, United States|41.44392|-71.4827
+Co Hwy 6 Box 6035 Tops Market, Towanda, PA 18848, United States|41.767574|-76.44272
+Stop & Shop, 1925 Pawtucket Ave, East Providence, RI 02914, United States|41.82329|-71.35683
+Giant Food Stores, 2415 E Market St, York, PA 17404, United States|39.9752839|-76.67862869999999
+Shaw's, 320 Warwick Ave, Warwick, RI 02888, United States|41.766956|-71.404335
+Safeway, 2401 N Charles St, Baltimore, MD 21218, United States|39.31694|-76.615875
+Shoppers Food & Pharmacy, 857 E Fort Ave, Baltimore, MD 21230, United States|39.270428|-76.60379
